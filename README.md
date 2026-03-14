@@ -1,4 +1,4 @@
-# Quantum Circuit Design with LLMs — GSoC 2026 Evaluation Task
+# Quantum Circuit Design with LLMs- GSoC 2026 Evaluation Task
  
 **ML4SCI – QMLHEP | Google Summer of Code 2026**
  
