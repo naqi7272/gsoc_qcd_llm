@@ -12,11 +12,11 @@ This repository contains my evaluation task submission for the **Quantum Circuit
  
 ## Tasks Completed
  
-**Task 1 — Orchestral AI Setup & Custom Tool:** Created a `hilbert_space_dimension` tool with comprehensive docstrings and demonstrated reliable agent invocation across simple, comparative, and applied reasoning queries.
+**Task 1 - Orchestral AI Setup & Custom Tool:** Created a `hilbert_space_dimension` tool with comprehensive docstrings and demonstrated reliable agent invocation across simple, comparative, and applied reasoning queries.
  
-**Task 2 — QNN Training Tool:** Built a 4-qubit variational quantum circuit (angle embedding, RY/RZ rotations, CNOT entanglement) for binary MNIST classification. Wrapped as an Orchestral AI tool (`train_qnn`) with configurable hyperparameters, returning structured JSON metrics.
+**Task 2 - QNN Training Tool:** Built a 4-qubit variational quantum circuit (angle embedding, RY/RZ rotations, CNOT entanglement) for binary MNIST classification. Wrapped as an Orchestral AI tool (`train_qnn`) with configurable hyperparameters, returning structured JSON metrics.
  
-**Task 3 — Agent-Driven Hyperparameter Optimization:** Implemented a closed-loop pipeline where the agent autonomously explores 5 learning rates, observes training metrics, and identifies the optimal configuration through reasoning.
+**Task 3 - Agent-Driven Hyperparameter Optimization:** Implemented a closed-loop pipeline where the agent autonomously explores 5 learning rates, observes training metrics, and identifies the optimal configuration through reasoning.
  
 ## Repository Structure
  
